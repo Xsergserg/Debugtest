@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $workspaceRoot && make && main.exe",
+    },
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
